@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+.todo-card {
+  padding: 10px;
+  border: 2px solid rgb(219, 231, 248);
+  margin-bottom: 15px;
+  border-radius: 6px;
+}
+
+.todo-card:hover {
+  background-color: rgb(232, 248, 248, 0.4);
+  box-shadow: 1px 2px 2px rgba(175, 208, 228, 0.3);
+}
+
+.chakra-link:hover {
+  text-decoration: none !important;
+}
+
+.chakra-badge {
+  border-radius: 3px;
+}
